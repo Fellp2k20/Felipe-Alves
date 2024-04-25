@@ -5,7 +5,7 @@ Olá! aqui esta algumas coisas minhas
 
 - 🔭Hoje pretendo trabalhar com back-end
 - 🌱Estudando java
-- 😄Pronouns: ele/dele
+- 😄Pronoomess: ele/dele
 
 ##
 
