@@ -3,7 +3,7 @@ Olá! aqui esta algumas coisas minhas
 
 # Olá eu sou Felipe Alves
 
-- 🔭Hoje trabalho com backend
+- 🔭Hoje pretendo trabalhar com back-end
 - 🌱Estudando java
 - 😄Pronouns: ele/dele
 
